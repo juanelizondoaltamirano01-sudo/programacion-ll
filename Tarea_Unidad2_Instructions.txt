@@ -1,0 +1,19 @@
+Práctica Programada 2 - Instrucciones
+
+Crear un proyecto Windows Forms llamado: Tarea_Unidad2_CSSharp.
+
+Formulario requerido:
+- 2 TextBox: txtNumero1, txtNumero2
+- 1 Button: btnEvaluar (determina cuál número es mayor)
+- 1 ListBox: listBoxColores (con al menos 3 colores)
+- 1 ContextMenuStrip con opción para cambiar el fondo usando ColorDialog
+
+Funcionalidad:
+- Al presionar btnEvaluar, mostrar un MessageBox indicando cuál número es mayor (y su valor).
+- Al seleccionar un color del ListBox, cambiar el BackColor del formulario al color seleccionado.
+- Usar ContextMenuStrip y ColorDialog para cambiar el color de fondo dinámicamente.
+
+Notas:
+- Validar entradas numéricas y avisar al usuario (resaltar TextBox inválido).
+- Mapear nombres de colores (en español) en el ListBox a System.Drawing.Color en el código.
+- Evitar acceder a controles antes de InitializeComponent; inicializar o poblar el ListBox en Form.Load si es necesario.

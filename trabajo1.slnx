@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="trabajo1/trabajo1.csproj" />
+  <Folder Name="/trabajps/">
+    <Project Path="Tarea_Unidad2_Cssharp/Tarea_Unidad2_Cssharp.csproj" Id="37a1d18e-2046-4c7e-b565-998313259d75" />
+    <Project Path="Unidad_1_suma_Decimales/Unidad_1_formulario.csproj" Id="c2e150e1-dd4e-4751-afca-139c67206966" />
+  </Folder>
 </Solution>
