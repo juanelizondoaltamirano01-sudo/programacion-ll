@@ -1,0 +1,1 @@
+SELECT IdCliente, Nombre FROM Clientes WHERE Nombre LIKE 'Danna%';
