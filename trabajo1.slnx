@@ -5,6 +5,7 @@
     <Project Path="Unidad-3_mostrar_dias_numeros/Unidad-3_mostrar_dias_numeros.csproj" Id="56587bb8-bea5-4ba3-8ee5-4a8a86f8777c" />
     <Project Path="Unidad_1_suma_Decimales/Unidad_1_formulario.csproj" Id="c2e150e1-dd4e-4751-afca-139c67206966" />
   </Folder>
+  <Folder Name="/Unidad6BD/" />
   <Project Path="Unidad3/Unidad3.csproj" Id="6f2a93a8-49e5-4056-be19-067f8005fc15" />
   <Project Path="Unidad4_POO/Unidad4_POO.csproj" Id="57803b96-b713-4aa3-952a-aefbaf8af8ca" />
 </Solution>

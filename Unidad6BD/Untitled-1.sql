@@ -1,0 +1,8 @@
+CREATE DATABASE Tienda;
+USE Tienda;
+
+CREATE TABLE Clientes (
+    IdCliente INT AUTO_INCREMENT PRIMARY KEY,
+    Nombre VARCHAR(100) NOT NULL,
+    Correo VARCHAR(100)
+);
